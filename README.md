@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building dope stuff across the full stack — from scalable backends with Spring Boot to sleek mobile apps in React Native. Also training my brain (and models) in Machine Learning.<br>Full-stack projects that actually do something — apps, tools, platforms, whatever.<br>Diving deeper into ML workflows and getting hands-on with DevOps pipelines. Basically trying to go from “runs on my machine” to “runs like a dream in production.”<br>Machine Learning (from sklearn to deep nets), cloud & DevOps stuff (CI/CD, Docker, k8s), and still sharpening my skills in React Native and full-stack wizardry.<br>Spring Boot, React, or React Native — I can walk you through them, break stuff down, and maybe even save you from a few rage quits.<br>
+Building dope stuff across the full stack — from scalable backends with Spring Boot to sleek mobile apps in React Native. Also training my brain (and models) in Machine Learning. Diving deeper into ML workflows and getting hands-on with DevOps pipelines. Basically trying to go from “runs on my machine” to “runs like a dream in production.” Machine Learning (from sklearn to deep nets), cloud & DevOps stuff (CI/CD, Docker, k8s), and still sharpening my skills in React Native and full-stack wizardry.
 
 
 ## 🌐 Socials:
