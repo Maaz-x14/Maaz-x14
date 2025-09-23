@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Building dope stuff across the full stack — from scalable backends with Spring Boot to sleek mobile apps in React Native. Also training my brain (and models) in Machine Learning. Diving deeper into ML workflows and getting hands-on with DevOps pipelines. Machine Learning (from sklearn to deep nets), cloud & DevOps stuff (CI/CD, Docker, k8s), and still sharpening my skills in React Native and full-stack wizardry.
 
 
@@ -18,6 +18,5 @@ Building dope stuff across the full stack — from scalable backends with Spring
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maaz-x14&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
