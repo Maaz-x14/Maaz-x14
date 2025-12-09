@@ -13,6 +13,11 @@
   <a href="mailto:lostunknown06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <br>
+  ![Profile Views](https://komarev.com/ghpvc/?username=Maaz-x14&label=Profile%20Views&color=0e75b6&style=flat)
+  ![GitHub Followers](https://img.shields.io/github/followers/Maaz-x14?label=Followers&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/Maaz-x14?label=Stars&style=social)
+
 </p>
 
 ---
@@ -78,19 +83,30 @@ Building dope stuff across the full stack—from scalable backends with Spring B
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-x14&theme=dark&hide_border=true&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-x14&theme=dark&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  ![](https://github-readme-stats.vercel.app/api?username=Maaz-x14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-x14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Maaz-x14&theme=dark&hide_border=true" height="150" alt="streak stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Maaz-x14&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" height="150" alt="trophies" />
+  ![](https://nirzak-streak-stats.vercel.app/?user=Maaz-x14&theme=dark&hide_border=false)<br/>
+  ![](https://github-profile-trophy.vercel.app/?username=Maaz-x14&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-x14&theme=github-dark&hide_border=true" width="100%" alt="activity graph">
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=Maaz-x14&theme=github-dark&hide_border=false)
 </div>
 <br>
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maaz-x14&theme=github_dark&utcOffset=5" alt="productive time" />
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maaz-x14&theme=github_dark&utcOffset=5)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=Maaz-x14&theme=github_dark)
 </div>
+
+
+
+
+
+
+
+
+
+
