@@ -78,16 +78,16 @@ I specialize in building scalable backend systems and intelligent applications. 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-x14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-x14&theme=dark&hide_border=true&show_icons=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-x14&theme=dark&hide_border=true&layout=compact" height="160" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maaz-x14&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=Maaz-x14&theme=dark&hide_border=true" height="160" alt="streak stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=Maaz-x14&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maaz-x14&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </div>
 
 <br>
